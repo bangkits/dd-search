@@ -2,7 +2,7 @@
 
 To install package from npm
 ```bash
-npm i dd-search # or yarn start
+npm i dd-search #
 ```
 
 ```bash
